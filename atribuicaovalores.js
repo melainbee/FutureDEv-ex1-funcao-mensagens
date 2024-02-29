@@ -1,3 +1,5 @@
-let var;
+let variavel;
 
-var = numero.parseInt(window.prompt(`digite um número: `))
+variavel = numero.parseInt(window.prompt(`Digite um número: `));
+
+console.log('O número digitado foi: ${var}`);
